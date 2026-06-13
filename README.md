@@ -2,7 +2,7 @@
 
 **Reinforcement Learning Engineer & AI Researcher**  
 AECOM AI for Engineering · PhD CS, University of Sheffield (2026)  
-Sheffield, UK
+London, UK
 
 ---
 
